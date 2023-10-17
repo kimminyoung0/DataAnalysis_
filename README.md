@@ -6,8 +6,8 @@ Python과 Pandas를 이용한 데이터 정제기술 & Matplotlib과 Seaborn을 
 
 # Built with 
  + SQL Language
-       +MySQL
+       + MySQL
  + Tools
-       +MySQL Workbench
+       + MySQL Workbench
  + Python
-       +Jupyter notebook       
+       + Jupyter notebook       
